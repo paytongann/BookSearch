@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">NetworkCallTest</string>
+    <string name="til_hint_search_by_title">Search by title</string>
+    <string name="btn_text_search">Search</string>
+</resources>
